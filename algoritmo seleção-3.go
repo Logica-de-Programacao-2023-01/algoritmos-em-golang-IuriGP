@@ -7,11 +7,11 @@ func main() {
 	fmt.Println("qual número?")
 	fmt.Scan(&x)
 
-	if x / 2 !=  {
-		fmt.Println("sim")
+	if x%2 == 0 {
+		fmt.Println("é um número par")
 
 	} else {
-		fmt.Println("não")
+		fmt.Println("é um número ímpar")
 	}
 
 }

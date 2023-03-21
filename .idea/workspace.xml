@@ -47,7 +47,7 @@
     "node.js.selected.package.eslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="Go Build.go build algoritmo repetição-5.go">
+  <component name="RunManager" selected="Go Build.go build algoritmo repetição-4.go">
     <configuration name="go build algoritmo repetição-1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos-em-golang-IuriGP" />
       <working_directory value="$PROJECT_DIR$" />
@@ -56,28 +56,28 @@
       <filePath value="$PROJECT_DIR$/algoritmo repetição-1.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build algoritmo repetição-5.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build algoritmo repetição-2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos-em-golang-IuriGP" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/algoritmo repetição-5.go" />
+      <filePath value="$PROJECT_DIR$/algoritmo repetição-2.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build algoritmo seleção-1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build algoritmo repetição-3.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos-em-golang-IuriGP" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/algoritmo seleção-1.go" />
+      <filePath value="$PROJECT_DIR$/algoritmo repetição-3.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build algoritmo seleção-2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build algoritmo repetição-4.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos-em-golang-IuriGP" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/algoritmo seleção-2.go" />
+      <filePath value="$PROJECT_DIR$/algoritmo repetição-4.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build algoritmo seleção-3.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -90,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build algoritmo repetição-5.go" />
-        <item itemvalue="Go Build.go build algoritmo repetição-1.go" />
+        <item itemvalue="Go Build.go build algoritmo repetição-4.go" />
+        <item itemvalue="Go Build.go build algoritmo repetição-3.go" />
+        <item itemvalue="Go Build.go build algoritmo repetição-2.go" />
         <item itemvalue="Go Build.go build algoritmo seleção-3.go" />
-        <item itemvalue="Go Build.go build algoritmo seleção-2.go" />
-        <item itemvalue="Go Build.go build algoritmo seleção-1.go" />
+        <item itemvalue="Go Build.go build algoritmo repetição-1.go" />
       </list>
     </recent_temporary>
   </component>
@@ -112,6 +112,11 @@
           <url>file://$PROJECT_DIR$/algoritmo repetição-5.go</url>
           <line>6</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/algoritmo seleção-3.go</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
