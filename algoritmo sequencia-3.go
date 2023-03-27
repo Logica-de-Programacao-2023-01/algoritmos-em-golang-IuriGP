@@ -11,6 +11,6 @@ func main() {
 	fmt.Scan(&x)
 	fmt.Print("Qual a sua Altura?")
 	fmt.Scan(&y)
-	var peso_2 = y * y
-	fmt.Println("Seu peso é: ", x/peso_2)
+	var peso = y * y
+	fmt.Println("Seu IMC é: ", x*peso)
 }
