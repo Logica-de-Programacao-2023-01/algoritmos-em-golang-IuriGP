@@ -14,9 +14,9 @@ func main() {
 	var peso_2 = y * y
 	var peso_final = x * peso_2
 	fmt.Println("Seu peso é: ", peso_final)
-	if peso_final < 18 && peso_final < 25 {
+	if peso_final < 180 && peso_final < 250 {
 		fmt.Println("Você está abaixo da média")
-	} else if peso_final > 18 && peso_final < 25 {
+	} else if peso_final > 180 && peso_final < 250 {
 		fmt.Println("Você está na média")
 	} else {
 		fmt.Println("Você está acima da média")

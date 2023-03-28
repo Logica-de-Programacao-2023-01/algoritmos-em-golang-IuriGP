@@ -13,4 +13,4 @@ func main() {
 	fmt.Scan(&y)
 	var mes = x / 30
 	fmt.Print("o valor do salário recebido pelo funcionario é de: ")
-}
+
